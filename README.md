@@ -1,12 +1,13 @@
 # Ruby on Racetracks Tutorials and How-To Guides
 
-Welcome to the tutorials for getting started with Ruby on Racetracks!  These will help you get started.  Do NOT be intimated by the large number of chapters in some tutorials.  Each chapter is kept reasonably short so that you don't lose track of what you're doing.
+Welcome to the tutorials for getting started with Ruby on Racetracks!  Do NOT be intimated by the large number of chapters in some tutorials.  Each chapter is kept reasonably short so that you don't lose track of what you're doing.
 
 ## VirtualBox
-[VirtualBox Tutorial](https://github.com/rubyonracetracks/tutorial-virtualbox)
+[VirtualBox Tutorial](https://github.com/rubyonracetracks/tutorial-virtualbox): If you are a Mac or Windows user, please install a Linux virtual machine for using Docker.
 
 ## Docker
-[Docker Tutorial - Debian Stretch](https://github.com/rubyonracetracks/tutorial-docker-stretch)
+[Docker Tutorial - Debian Stretch](https://github.com/rubyonracetracks/tutorial-docker-stretch): Using Docker with Ruby on Rails pre-installed allows you to be ready to roll in minutes, not hours.  Please note that my way of using Docker is different from the conventional ways.
+
 ## GenericApp
 [GenericApp Tutorial](https://github.com/rubyonracetracks/tutorials-rails-short/blob/master/generic_app.md)
 
