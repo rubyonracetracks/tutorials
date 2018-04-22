@@ -25,5 +25,5 @@ Welcome to the tutorials for getting started with Ruby on Racetracks!  These wil
 
 ## Legacy Projects
 * [Ruby on Racetracks Agenda for Legacy Rails Projects](https://github.com/rubyonracetracks/cheat_sheets/blob/master/rails_legacy_projects.md)
-* [Adopt-A-Tree](https://gist.github.com/jhsu802701/615a7d3c3883ec36ac89ed12da253c14)
+* [Adopt-A-Tree](https://github.com/rubyonracetracks/tutorials-rails-short/blob/master/specific_projects/adoptatree.md)
 * [Rails.MN web site](https://gist.github.com/jhsu802701/664e40c2f15e861bd64a3fd639163072) (Jekyll)
