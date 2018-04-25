@@ -1,6 +1,6 @@
 # Ruby on Racetracks Tutorials and How-To Guides
 
-Welcome to the tutorials for getting started with Ruby on Racetracks!  Do NOT be intimated by the large number of chapters in some tutorials.  Each chapter is kept reasonably short so that you don't lose track of what you're doing.
+Welcome to the tutorials for getting started with [Ruby on Racetracks](http://www.rubyonracetracks.com/)!  Do NOT be intimated by the large number of chapters in some tutorials.  Each chapter is kept reasonably short so that you don't lose track of what you're doing.
 
 ## VirtualBox
 [VirtualBox Tutorial](https://github.com/rubyonracetracks/tutorial-virtualbox): If you are a Mac or Windows user, please install a Linux virtual machine for using Docker.
@@ -21,10 +21,10 @@ Welcome to the tutorials for getting started with Ruby on Racetracks!  Do NOT be
 [Ruby on Racetracks Tutorial: Adding User Profile Pictures](https://github.com/rubyonracetracks/tutorial_rails_profile_pic)
 
 ## The New Ruby.MN
-* [Tutorial](https://github.com/rubyonracetracks/tutorial-rails-rubymn2)
+* [Short Ruby.MN Tutorial](https://github.com/rubyonracetracks/tutorials-rails-short/blob/master/specific_projects/rubymn2.md)
+* [Long Ruby.MN Tutorial](https://github.com/rubyonracetracks/tutorial-rails-rubymn2)
 * [Deployment](https://rubymn2.herokuapp.com/)
 
 ## Legacy Projects
 * [Ruby on Racetracks Agenda for Legacy Rails Projects](https://github.com/rubyonracetracks/cheat_sheets/blob/master/rails_legacy_projects.md)
 * [Adopt-A-Tree](https://github.com/rubyonracetracks/tutorials-rails-short/blob/master/specific_projects/adoptatree.md)
-* [Rails.MN web site](https://gist.github.com/jhsu802701/664e40c2f15e861bd64a3fd639163072) (Jekyll)
