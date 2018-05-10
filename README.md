@@ -8,8 +8,8 @@ Welcome to the tutorials for getting started with [Ruby on Racetracks](http://ww
 ## Docker
 [Docker Tutorial - Debian Stretch](https://github.com/rubyonracetracks/tutorial-docker-stretch): Using Docker with Ruby on Rails pre-installed allows you to be ready to roll in minutes, not hours.  Please note that my way of using Docker is different from the conventional ways.
 
-## GenericApp
-[GenericApp Tutorial](https://github.com/rubyonracetracks/tutorials-rails-short/blob/master/generic_app.md)
+## Generic App
+[Generic App Tutorial](https://github.com/rubyonracetracks/tutorials-rails-short/blob/master/generic_app.md)
 
 ## Rails Neutrino
 [Rails Neutrino Tutorial](https://github.com/rubyonracetracks/tutorials-rails-short/blob/master/rails_neutrino.md)
